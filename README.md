@@ -1,40 +1,41 @@
-## Hi there! 👋
+Hi there! 👋
+I'm Sasiru Arudsothy, a passionate Front-End Developer dedicated to building beautiful, responsive websites. Always eager to learn and improve, I thrive on transforming ideas into reality using modern web technologies. At 18 years old, I'm focused on honing my skills and exploring new techniques to create seamless web experiences.
 
-I'm **Sasiru Arudsothy**, a passionate **Front-End Developer** dedicated to crafting beautiful and responsive websites. My mantra is simple: always be learning and improving!
+About Me
+Based in Kandy, Sri Lanka, I am currently a student working to develop my skills in frontend web development. I specialize in creating engaging user experiences using HTML, CSS, JavaScript, and other modern tools. My goal is to merge functionality with aesthetic design, ensuring that every website I build is both visually appealing and highly functional.
 
-## About Me
+Skills & Technologies
+Languages: HTML, CSS, JavaScript
+Frameworks & Libraries: React, Bootstrap
+Tools: Git, GitHub
+Top Projects
+Here are some of my key projects:
 
-Based in **Kandy, Central Province, Sri Lanka**, I'm currently a student diving deep into the world of web development. I specialize in using **HTML**, **CSS**, **JavaScript**, and **React** to create engaging user experiences. My journey in tech is fueled by a love for creativity and innovation!
+Restaurant-Website: A responsive restaurant website showcasing a mix of cultural themes.
+Stars: 0 | Language: HTML
+Rate-Estimator: A Freelance Rate Calculator for determining hourly or project-based rates.
+Stars: 0 | Language: CSS
+Diamond-Store-Project: A user-friendly website for topping up diamonds for games.
+Stars: 0 | Language: CSS
+Service-Finder: A platform for finding and connecting with local services.
+Stars: 0 | Language: CSS
+GitHub Stats
+🏆 Public Repositories: 5
+👥 Followers: 0
+👤 Following: 0
 
-## Skills & Technologies
 
-html,css,react
 
-## Top Projects
+Recent Activity
+Improved Restaurant-Website
+Created Restaurant-Website
+Added new features to Diamond-Store-Project
+Created Service-Finder repository
+Created Rate-Estimator
+Latest Blog Posts
+No blog posts available at the moment.
 
-- [**Restaurant-Website**](https://github.com/Sirius-Shadow/Restaurant-Website) - A responsive restaurant website showcasing a blend of cultural themes. 🌍 (Stars: 0, Language: HTML, Forks: 0, Issues: 0)
-- [**Rate-Estimator**](https://github.com/Sirius-Shadow/Rate-Estimator) - A freelance rate calculator for determining fair pricing. 💼 (Stars: 0, Language: CSS, Forks: 0, Issues: 0)
-- [**Diamond-Store-Project**](https://github.com/Sirius-Shadow/Diamond-Store-Project) - A secure platform for topping up diamonds for games. 💎 (Stars: 0, Language: CSS, Forks: 0, Issues: 0)
-- [**Service-Finder**](https://github.com/Sirius-Shadow/Service-Finder) - A web platform to connect users with local services. 🔍 (Stars: 0, Language: CSS, Forks: 0, Issues: 0)
-
-## GitHub Stats
-
-🌟 **Public Repositories:** 5  
-👥 **Followers:** 0  
-👣 **Following:** 0  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sirius-Shadow&show_icons=true&theme=radical)
-
-## Recent Activity
-
-- Created [**Sirius-Shadow**](https://github.com/Sirius-Shadow/Sirius-Shadow) repository for GitHub profile configuration.  
-- Pushed changes to [**Restaurant-Website**](https://github.com/Sirius-Shadow/Restaurant-Website) including the Menu.html file.  
-- Created and updated several repositories including [**Rate-Estimator**](https://github.com/Sirius-Shadow/Rate-Estimator) and [**Service-Finder**](https://github.com/Sirius-Shadow/Service-Finder).
-
-## Latest Blog Posts
-
-Currently, I do not have any blog posts. Stay tuned for future updates!
-
-## Connect with Me
-
-{}
+Connect with Me
+📧 Email: sasiruyonal11@gmail.com
+🔗 LinkedIn: [Your LinkedIn URL]
+🐦 Twitter: [Your Twitter Handle]
