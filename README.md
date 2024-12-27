@@ -8,7 +8,7 @@ Located in **Kandy, Central Province, Sri Lanka**, I'm currently a student honin
 
 ## Skills & Technologies
 
-**Languages**: HTML, CSS, JavaScript
+**Languages**: HTML, CSS, JavaScript<br>
 **Tools**: Git, GitHub
 
 ## Top Projects
